@@ -1,22 +1,22 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:
+---
+layout: post
+title: Introducing Hyde
+---
 
-```
-$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-```
+## TN ELC forms and necessary documents
 
-If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.
+### Monthly submissions from each chair
 
-### Designer Templates
-We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.
+> Everything is due the Saturday after the GBM by 12pm
 
-### Rather Drive Stick?
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+- [TN ELC Monthly Hours Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScXImkPu58_ZFmhW4hCjMbDSxB6phBkFFmtA-s7Yz2rI_ayCA/viewform)
+- [TN ELC Contribution Tracker](https://docs.google.com/forms/d/e/1FAIpQLSdN21OOz6rcv_Q6vlH7-2xw1Rg8XGYrGydSmD6Q3iJ7GTCYHQ/viewform)
+- [TN ELC Post Activity Reports Tool](https://docs.google.com/forms/d/e/1FAIpQLSdKk8S5lRtYYpDmnr8vtxy1IyZt91OXIwXrraLVrPlM7zcGhA/viewform)
+- [Blank EBM Report form](https://docs.google.com/a/thursdaynetwork.org/document/d/1imqQMesGiCd8ejjp3Q1GZm5_hsklFJ67wsOZp7RrJVk/edit?usp=sharing) 
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+## Committee forms and docs
 
-### Support or Contact
-Having trouble with Pages? Check out the documentation at http://help.github.com/pages or contact support@github.com and we’ll help you sort it out.
+- [**TN Committee Meeting Sign-in Form (2017 - 2018)**](https://docs.google.com/forms/d/e/1FAIpQLScj629spfzbVOnpk986UUZRCl7Ah42alz2W1UaSxb-zQFtMbQ/viewform) Have everyone at your committee meeting fill out this form (via laptop ideally) when they come in. If you choose to go the "low-tech" route, you can collect their information on a piece of paper and then enter each attendee into the form yourself after the meeting.
+- [**Blank Program Proposal Form**](https://docs.google.com/a/thursdaynetwork.org/document/d/1xS9f5x5-9G3lg_NfsOi203H4uHBtrJ0MXtHQV9eU6NU/edit?usp=sharing) (do not use this form itself!). Make a copy of this document, the title should include your event name and to words “Event Proposal”. When you are ready to submit your proposal, just share this documentand with vicepresident@thursdaynetwork.org, in the message include the proposed event date(s), venue(s) in the body text, and a link to the proposal.
+- [**TN Speaker Questionnaire Form**](https://docs.google.com/forms/d/e/1FAIpQLSeThkAlRfMpHcp3VJ9XwPixlZOQM7RTESg58UKKbqCvuLmGNw/viewform) (speakers *WITH* google email account)
+- [**TN Speaker Questionnaire Form**](https://docs.google.com/forms/d/e/1FAIpQLSedMch9ne1zmw5i0llhybEfNqiF41lLlLg6qCYtMLPqa0CK8Q/viewform) (speakers *WITH NO* google email account)
