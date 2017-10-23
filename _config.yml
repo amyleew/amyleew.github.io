@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Amy Lee Walton
+tagline:          'sharing is caring'
+description:      'A small space on the web for Amy Lee.'
+url:              http://amylee.github.io
+baseurl:          /
+
+author:
+  name:           'Amy Lee Walton'
+  url:            https://twitter.com/amyleew
+
+paginate:         5
+gems: [jekyll-paginate]
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/amyleew/amyleew.github.io
