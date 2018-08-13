@@ -2,7 +2,7 @@ title: Amyleew.github.io
 description: "advanced web design :: class web site"
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-leap-day
 
 gems:
   - jekyll-mentions
